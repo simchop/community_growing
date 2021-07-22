@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "https://drive.google.com/file/d/15Wuakv_qtY3xT4Ug2DO7sgnuqHECPP8d/view?usp=sharing"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Name of the work 3"

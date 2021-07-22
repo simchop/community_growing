@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ""
+image = "https://drive.google.com/file/d/1t9CGz_gtVpjRGVUsqdzhc498-DcE_UWG/view?usp=sharing"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Item without image"

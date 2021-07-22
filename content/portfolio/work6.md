@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ""
+image = "https://drive.google.com/file/d/1Bx_gDgAtqn067xpOInftP-bKoYhhTGrZ/view?usp=sharing"
 date = "2016-11-05T19:56:17+05:30"
 title = "Name of the work 6"
 showonlyimage = false

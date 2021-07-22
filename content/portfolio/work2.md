@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "https://drive.google.com/file/d/1Jz8JTTJ_ymrgc67RJ764PJOF1VRra7wg/view?usp=sharing"
 showonlyimage = false
 weight = 1
 +++
