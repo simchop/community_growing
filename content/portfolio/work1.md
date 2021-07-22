@@ -1,5 +1,5 @@
 +++
-image = "https://drive.google.com/file/d/1HqJsbbnZbRd2fmh5CgCkfRCAcfnhdZfP/view?usp=sharing"
+image = "https://user-images.githubusercontent.com/667857/126713731-cfc45366-a7ad-4093-966a-3fe301fac244.jpeg"
 showonlyimage = true
 draft = false
 date = "2016-11-05T18:25:22+05:30"

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://drive.google.com/file/d/1Bx_gDgAtqn067xpOInftP-bKoYhhTGrZ/view?usp=sharing"
+image = "https://user-images.githubusercontent.com/667857/126714034-ee11077e-be25-4226-ae3e-a62d70fa0f29.jpeg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Name of the work 6"
 showonlyimage = false

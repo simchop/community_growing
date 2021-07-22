@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "https://drive.google.com/file/d/1Jz8JTTJ_ymrgc67RJ764PJOF1VRra7wg/view?usp=sharing"
+image = "https://user-images.githubusercontent.com/667857/126713807-d204b3dc-b57d-4419-a418-529237b4171b.jpeg"
 showonlyimage = false
 weight = 1
 +++
