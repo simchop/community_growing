@@ -54,10 +54,6 @@ googleAnalytics = ""
   name = "Audio Walk"
   url = "audio/"
 
-  [[params.navlinks]]
-  name = "Training"
-  url = "training/"
-
   [params.social]
   facebook      = "full page or profile url in facebook"
   email         = "email@example.com"
