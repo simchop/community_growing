@@ -52,7 +52,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Audio Walk"
-  url = "contact/"
+  url = "audio/"
 
   [[params.navlinks]]
   name = "Training"
