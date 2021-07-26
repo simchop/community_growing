@@ -1,9 +1,9 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = ""
 draft = false
-image = "https://user-images.githubusercontent.com/667857/126713807-d204b3dc-b57d-4419-a418-529237b4171b.jpeg"
-showonlyimage = false
+image = "https://user-images.githubusercontent.com/667857/126713858-1a31aff2-2883-4dbc-8a09-3e6cae037d4c.jpeg"
+showonlyimage = true
 weight = 1
 +++
 

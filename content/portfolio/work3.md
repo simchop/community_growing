@@ -1,6 +1,6 @@
 +++
-image = "https://user-images.githubusercontent.com/667857/126713858-1a31aff2-2883-4dbc-8a09-3e6cae037d4c.jpeg"
-showonlyimage = false
+image = "https://user-images.githubusercontent.com/87864701/126909767-944486bb-cfa4-4862-a22c-0597a527d59e.jpeg"
+showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Name of the work 3"
 draft = false
