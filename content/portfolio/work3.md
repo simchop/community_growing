@@ -2,7 +2,7 @@
 image = "https://user-images.githubusercontent.com/87864701/126909767-944486bb-cfa4-4862-a22c-0597a527d59e.jpeg"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Gainsborough Street"
 draft = false
 weight = 2
 +++
