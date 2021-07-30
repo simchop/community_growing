@@ -7,7 +7,9 @@ draft = false
 weight = 2
 +++
 
+![alt text][logo]
 
+[logo]: https://user-images.githubusercontent.com/87864701/127719079-dfd77774-7b44-4fa4-a0a1-86775760ba58.png "Gainsborough Street"
 
 #### The free food project was made possible by dedicating all of the available space into growing perennial vegetables and fruits.
 #### Fruit trees lining the neighbourhood provide fruit in abundance while still facing issues with fallen fruits and gluts leading to waste.

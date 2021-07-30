@@ -7,6 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
+
 #### Pop up farms have been created using stacked shipping coontainers to create food growing infrastructure available and accessible in the neighbourhood.
 
 #### Local community business around plants and vegetables has took off quite nicely, now they earn money from selling plants, vegetables, seeds and compost just like a garden centre.

@@ -7,7 +7,6 @@ title = "Mooreside School"
 weight = 0
 +++
 
-Reference-style: 
 ![alt text][logo]
 
 [logo]: https://user-images.githubusercontent.com/667857/126713731-cfc45366-a7ad-4093-966a-3fe301fac244.jpeg "Second Image"
