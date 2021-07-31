@@ -7,9 +7,9 @@ title = "Crossley Terrace"
 weight = 4
 +++
 
-![alt text][logo]
+<!-- ![alt text][logo]
 
-[logo]: https://user-images.githubusercontent.com/87864701/127719300-e74067ef-ad8a-487e-8ac7-ad9d8d75a4a0.png "Crossley Terrace"
+[logo]: https://user-images.githubusercontent.com/87864701/127719300-e74067ef-ad8a-487e-8ac7-ad9d8d75a4a0.png "Crossley Terrace" -->
 
 #### Machines for weeding have become a household technology for urban food growers leaving ample time for them to pursue other pleasures in life.
 #### People for plant support, a scheme launched by the community arranges for neighbours or installs technology to take care of plants when the owner is on holiday these kind of plant sitting activities have become a norm for community building and sharing in the North East.
