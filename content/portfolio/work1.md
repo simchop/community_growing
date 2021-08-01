@@ -7,9 +7,9 @@ title = "Mooreside School"
 weight = 0
 +++
 
-![alt text][logo]
+<!-- ![alt text][logo]
 
-[logo]: https://user-images.githubusercontent.com/667857/126713731-cfc45366-a7ad-4093-966a-3fe301fac244.jpeg "Second Image"
+[logo]: https://user-images.githubusercontent.com/667857/126713731-cfc45366-a7ad-4093-966a-3fe301fac244.jpeg "Second Image" -->
 
 
 #### Experimentation by citizens is underway to determine the new climate hardy varieties of vegetables and fruits to counteract climate change effects on food growing in Britain.
