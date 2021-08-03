@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "This is the space for Community Food Growing in Newcastle Upon Tyne."
-  copyright = "&copy;2021 Growing Green Communities"
+  copyright = "&copy;2021 Grow Green Futures"
   sidebarAbout = [
-    "This is part of PhD research for Simran Chopra who is a graduate student at Northumbria University",
-    "Originally from Chandigarh, currently based in Newcastle."
+    "Welcome to the Grow Green Futures website in collaboration with Greening Wingrove and Arthurs Hill.",
+    "Promoting community growing and green spaces in the neighbourhood."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -52,6 +52,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Training"
   url = "audio/"
+
+  [[params.navlinks]]
+  name = "Walk Locations"
+  url = "walk/"
 
   [params.social]
   facebook      = "https://www.facebook.com/GreeningWingrove/"

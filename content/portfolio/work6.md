@@ -2,7 +2,7 @@
 draft = false
 image = "https://user-images.githubusercontent.com/87864701/126910422-6543dcc6-6ee4-415f-8469-5c905f39d288.jpeg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Backlane"
+title = "Co-owned Spaces"
 showonlyimage = true
 weight = 6
 +++

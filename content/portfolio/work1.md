@@ -3,7 +3,7 @@ image = "https://user-images.githubusercontent.com/87864701/126910464-8d5d84c0-c
 showonlyimage = true
 draft = false
 date = "2016-11-05T18:25:22+05:30"
-title = "Mooreside School"
+title = "Knowledge Exchange"
 weight = 0
 +++
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walks on Grow Green Futures</title>
+    <link>https://simchop.github.io/community_growing/walk/</link>
+    <description>Recent content in Walks on Grow Green Futures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://simchop.github.io/community_growing/walk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walk Location</title>
+      <link>https://simchop.github.io/community_growing/walk/locations/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://simchop.github.io/community_growing/walk/locations/</guid>
+      <description>Thank you for joining us today to mindfully explore the neighbourhood through our 10-minute audio-guided meditative visioning walk. It is in partnership with the Greening wingrove CIC promoting community growing and green spaces in your neighbourhood. Just remember there is no right or wrong way to do this exercise. It is simply a guide to help you reimagine the neighbourhood’s public spaces, today. So now all we have to do is to begin walking and do remember to take your headphones as you listen to the audio.</description>
+    </item>
+    
+  </channel>
+</rss>
