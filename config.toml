@@ -13,8 +13,7 @@ googleAnalytics = ""
   description = "This is the space for Community Food Growing in Newcastle Upon Tyne."
   copyright = "&copy;2021 Grow Green Futures"
   sidebarAbout = [
-    "Welcome to the Grow Green Futures website in collaboration with Greening Wingrove and Arthurs Hill.",
-    "Promoting community growing and green spaces in the neighbourhood."
+    "Welcome to the Grow Green Futures website in collaboration with Greening Wingrove and Arthurs Hill. Promoting community growing and green spaces in the neighbourhood."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
