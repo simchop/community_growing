@@ -8,10 +8,10 @@ weight = 1
 +++
 
 
-#### Pop up farms have been created using stacked shipping coontainers to create food growing infrastructure available and accessible in the neighbourhood.
+#### Pop-up farms have been created using stacked shipping containers to create food growing infrastructure available and accessible in the neighbourhood.
 
-#### Local community business around plants and vegetables has took off quite nicely, now they earn money from selling plants, vegetables, seeds and compost just like a garden centre.
+#### Local community business around plants and vegetables has taken off quite nicely, now they earn money from selling plants, vegetables, seeds and compost just like a garden centre.
 
-#### To solve the problem of the litter in the area the community has developed a communal composting hub where the neighbourhood collects everyday compostable waste. The compost hub is fully self-sufficient by selling high quality compost.
+#### To solve the problem of the litter in the area the community has developed a communal composting hub where the neighbourhood collects everyday compostable waste. The compost hub is fully self-sufficient by selling high-quality compost.
 
-#### The community has developed an entrepreneurial business of edible weeds by producing exotic drinks and food items which are not available in the supermarkets.
+#### The community has developed an entrepreneurial business of edible weeds by producing exotic drinks and food items that are not available in supermarkets.
