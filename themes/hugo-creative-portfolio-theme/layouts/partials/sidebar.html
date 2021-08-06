@@ -1,7 +1,10 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-    <img src="https://user-images.githubusercontent.com/87864701/128318030-64a0d30e-59a8-4f61-bbab-d60f878e5d0f.png" alt="">
+    <h1 class="sidebar-heading">
+      <a href="{{ .Site.BaseURL }}">
+      <img src="https://user-images.githubusercontent.com/87864701/128318030-64a0d30e-59a8-4f61-bbab-d60f878e5d0f.png" alt="">
+    </a></h1>
+    
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
