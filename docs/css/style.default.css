@@ -18,6 +18,15 @@ body {
 header {
   z-index: 1000;
 }
+
+iframe{
+  height: 600px!important;
+}
+@media (max-width: 600px) {
+  iframe{
+    height: 300px!important;
+  }
+}
 section {
   position: relative;
   padding-top: 90px;
