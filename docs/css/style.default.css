@@ -1989,7 +1989,6 @@ h3,
 .h3 {
   margin-top: 0;
   margin-bottom: 24px;
-  color: red;
 }
 iframe{
   height: 600px!important;
@@ -1998,6 +1997,9 @@ iframe{
   iframe{
     height: 300px!important;
   }
+}
+.textBox{
+  display: none!important;
 }
 p {
   margin: 0 0 24px;
