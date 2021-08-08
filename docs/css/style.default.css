@@ -1990,17 +1990,14 @@ h3,
   margin-top: 0;
   margin-bottom: 24px;
 }
-iframe{
+/* iframe{
   height: 600px!important;
 }
 @media (max-width: 600px) {
   iframe{
     height: 300px!important;
   }
-}
-.textBox{
-  display: none!important;
-}
+} */
 p {
   margin: 0 0 24px;
 }
